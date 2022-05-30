@@ -4,6 +4,6 @@ from django.shortcuts import render
 
 
 def index(request):
-    """ This is view returning to index page"""
+    """ This is view for donation on help us section"""
     
     return render(request, 'home/index.html')
