@@ -1,0 +1,277 @@
+[
+    {
+      "pk": 1,
+      "model": "about.pets",
+      "fields":{
+        "name": "Biscuit",
+        "friendly_name": "Biscuit",
+        "weight": 10.2,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764166/biscuit_inhtt3.jpg",
+        "image": "biscuit_inhtt3.jpeg"
+    }
+    },
+    {
+      "pk": 2,
+      "model": "about.pets",
+      "fields":{
+        "name": "Jungle",
+        "friendly_name": "Jungle",
+        "weight": 9.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764112/jungle_evdm47.jpg",
+        "image": "jungle_evdm47.jpeg"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "about.pets",
+      "fields":{
+        "name": "Benji",
+        "friendly_name": "Benji",
+        "weight": 10.9,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764036/benji_rkg884.jpg",
+        "image": "benji_rkg884.jpeg"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "about.pets",
+      "fields":{
+        "name": "Beebee",
+        "friendly_name": "Beebee",
+        "weight": 13.3,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763988/beebee_oqtgld.jpg",
+        "image": "beebee_oqtgld.jpeg"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "about.pets",
+      "fields":{
+        "name": "Pillow",
+        "friendly_name": "Pillow",
+        "weight": 8.3,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764042/pillow_j9yenx.jpg",
+        "image": "pillow_j9yenx.jpeg"
+      }
+    },
+    {
+      "pk": 6,
+      "model": "about.pets",
+      "fields":{
+        "name": "Buddy",
+        "friendly_name": "Buddy",
+        "weight": 9.2,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764293/buddy_oln5er.jpg",
+        "image": "buddy_oln5er.jpeg"
+      }
+      },
+    {
+      "pk": 7,
+      "model": "about.pets",
+      "fields":{
+        "name": "Mini",
+        "friendly_name": "Mini",
+        "weight": 5.2,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764180/mini_stjtkm.jpg",
+        "image": "mini_stjtkm.jpeg"
+      }
+    },
+    {
+      "pk": 8,
+      "model": "about.pets",
+      "fields":{
+        "name": "Danton",
+        "friendly_name": "Danton",
+        "weight": 50.4,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763990/danton_et1gql.jpg",
+        "image": "danton_et1gql.jpeg"
+      }
+    },
+    {
+      "pk": 9,
+      "model": "about.pets",
+      "fields":{
+        "name": "Archy",
+        "friendly_name": "Archy",
+        "weight": 19.9,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763883/archy_yehmk9.jpg",
+        "image": "archy_yehmk9.jpeg"
+      }
+    },
+    {
+      "pk": 10,
+      "model": "about.pets",
+      "fields":{
+        "name": "Otis",
+        "friendly_name": "Otis",
+        "weight": 50.4,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764030/otis_s6rnrm.jpg",
+        "image": "otis_s6rnrm.jpeg"
+      }
+    },
+    {
+      "pk": 11,
+      "model": "about.pets",
+      "fields":{
+        "name": "Luna",
+        "friendly_name": "Luna",
+        "weight": 75.4,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763994/luna_zdqqlx.jpg",
+        "image": "luna_zdqqlx.jpeg"
+      }
+    },
+    {
+      "pk": 12,
+      "model": "about.pets",
+      "fields":{
+        "name": "Canela",
+        "friendly_name": "Canela",
+        "weight": 100.4,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763877/canela_fwp5mm.jpg",
+        "image": "canela_fwp5mm.jpeg"
+      }
+    },
+    {
+      "pk": 13,
+      "model": "about.pets",
+      "fields":{
+        "name": "Mehla",
+        "friendly_name": "Mehla",
+        "weight": 90.3,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764044/mehla_yvsqfb.jpg",
+        "image": "mehla_yvsqfb.jpeg"
+      }
+    },
+    {
+      "pk": 14,
+      "model": "about.pets",
+      "fields":{
+        "name": "Rainier McCheddarton",
+        "friendly_name": "Rainier McCheddarton",
+        "weight": 70.4,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763878/rainier_yeodlm.jpg",
+        "image": "rainier_yeodlm.jpeg"
+      }
+    },
+    {
+      "pk": 15,
+      "model": "about.pets",
+      "fields":{
+        "name": "Pax",
+        "friendly_name": "Pax",
+        "weight": 52.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764041/pax_aj6wqh.jpg",
+        "image": "pax_aj6wqh.jpeg"
+      }
+    },
+    {
+      "pk": 16,
+      "model": "about.pets",
+      "fields":{
+        "name": "Lucie",
+        "friendly_name": "Lucie",
+        "weight": 44.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763973/lucie_ro5isy.jpg",
+        "image": "lucie_ro5isy.jpeg"
+      }
+    },
+    {
+      "pk": 17,
+      "model": "about.pets",
+      "fields":{
+        "name": "Lazer",
+        "friendly_name": "Lazer",
+        "weight": 15.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763985/lazer_yrwvzu.jpg",
+        "image": "lazer_yrwvzu.jpeg"
+      }
+    },
+    {
+      "pk": 18,
+      "model": "about.pets",
+      "fields":{
+        "name": "Switchblade",
+        "friendly_name": "Switchblade",
+        "weight": 20.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764363/switchblade_emzkx3.jpg",
+        "image": "switchblade_emzkx3.jpeg"
+      }
+    },
+    {
+      "pk": 19,
+      "model": "about.pets",
+      "fields":{
+        "name": "Steve",
+        "friendly_name": "Steve",
+        "weight": 20.4,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763991/steve_w7mqee.jpg",
+        "image": "steve_w7mqee.jpeg"
+      }
+    },
+    {
+      "pk": 20,
+      "model": "about.pets",
+      "fields":{
+        "name": "Pluto",
+        "friendly_name": "Pluto",
+        "weight": 66.1,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764104/pluto_sbdj3l.jpg",
+        "image": "pluto_sbdj3l.jpeg"
+      }
+    },
+    {
+      "pk": 21,
+      "model": "about.pets",
+      "fields":{
+        "name": "Pip",
+        "friendly_name": "Pip",
+        "weight": 3.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764136/pip_o0snc2.jpg",
+        "image": "pip_o0snc2.jpeg"
+      }
+    },
+    {
+      "pk": 22,
+      "model": "about.pets",
+      "fields":{
+        "name": "Sweetums",
+        "friendly_name": "Sweetums",
+        "weight": 4.6,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764027/sweetums_prsppm.jpg",
+        "image": "sweetums_prsppm.jpeg"
+      }
+    },
+    {
+      "pk": 23,
+      "model": "about.pets",
+      "fields":{
+        "name": "Jerry",
+        "friendly_name": "Jerry",
+        "weight": 5.5,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764083/jerry_drpooy.jpg",
+        "image": "jerry_drpooy.jpeg"
+      }
+    },
+    {
+      "pk": 24,
+      "model": "about.pets",
+      "fields":{
+        "name": "Jason",
+        "friendly_name": "Jason",
+        "weight": 2.7,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764178/jason_yzb3sg.jpg",
+        "image": "jason_yzb3sg.jpeg"
+      }
+    },
+    {
+      "pk": 25,
+      "model": "about.pets",
+      "fields":{
+        "name": "Peep",
+        "friendly_name": "Peep",
+        "weight": 6.5,
+        "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764163/peep_g42p7k.jpg",
+        "image": "peep_g42p7k.jpeg"
+      }
+    }
+  ]
