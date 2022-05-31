@@ -10,7 +10,7 @@ class PetsAdmin(admin.ModelAdmin):
         "friendly_name",
         "weight", 
         "image_url",
-        "image"
+        "image",
     )
 
 
