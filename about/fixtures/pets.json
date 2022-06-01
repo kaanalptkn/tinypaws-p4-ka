@@ -7,7 +7,7 @@
         "friendly_name": "Biscuit",
         "weight": 10.2,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764166/biscuit_inhtt3.jpg",
-        "image": "biscuit_inhtt3.jpeg"
+        "image": "biscuit_inhtt3.jpg"
     }
     },
     {
@@ -18,7 +18,7 @@
         "friendly_name": "Jungle",
         "weight": 9.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764112/jungle_evdm47.jpg",
-        "image": "jungle_evdm47.jpeg"
+        "image": "jungle_evdm47.jpg"
       }
     },
     {
@@ -29,7 +29,7 @@
         "friendly_name": "Benji",
         "weight": 10.9,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764036/benji_rkg884.jpg",
-        "image": "benji_rkg884.jpeg"
+        "image": "benji_rkg884.jpg"
       }
     },
     {
@@ -40,7 +40,7 @@
         "friendly_name": "Beebee",
         "weight": 13.3,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763988/beebee_oqtgld.jpg",
-        "image": "beebee_oqtgld.jpeg"
+        "image": "beebee_oqtgld.jpg"
       }
     },
     {
@@ -51,7 +51,7 @@
         "friendly_name": "Pillow",
         "weight": 8.3,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764042/pillow_j9yenx.jpg",
-        "image": "pillow_j9yenx.jpeg"
+        "image": "pillow_j9yenx.jpg"
       }
     },
     {
@@ -62,7 +62,7 @@
         "friendly_name": "Buddy",
         "weight": 9.2,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764293/buddy_oln5er.jpg",
-        "image": "buddy_oln5er.jpeg"
+        "image": "buddy_oln5er.jpg"
       }
       },
     {
@@ -73,7 +73,7 @@
         "friendly_name": "Mini",
         "weight": 5.2,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764180/mini_stjtkm.jpg",
-        "image": "mini_stjtkm.jpeg"
+        "image": "mini_stjtkm.jpg"
       }
     },
     {
@@ -84,7 +84,7 @@
         "friendly_name": "Danton",
         "weight": 50.4,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763990/danton_et1gql.jpg",
-        "image": "danton_et1gql.jpeg"
+        "image": "danton_et1gql.jpg"
       }
     },
     {
@@ -95,7 +95,7 @@
         "friendly_name": "Archy",
         "weight": 19.9,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763883/archy_yehmk9.jpg",
-        "image": "archy_yehmk9.jpeg"
+        "image": "archy_yehmk9.jpg"
       }
     },
     {
@@ -106,7 +106,7 @@
         "friendly_name": "Otis",
         "weight": 50.4,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764030/otis_s6rnrm.jpg",
-        "image": "otis_s6rnrm.jpeg"
+        "image": "otis_s6rnrm.jpg"
       }
     },
     {
@@ -117,7 +117,7 @@
         "friendly_name": "Luna",
         "weight": 75.4,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763994/luna_zdqqlx.jpg",
-        "image": "luna_zdqqlx.jpeg"
+        "image": "luna_zdqqlx.jpg"
       }
     },
     {
@@ -128,7 +128,7 @@
         "friendly_name": "Canela",
         "weight": 100.4,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763877/canela_fwp5mm.jpg",
-        "image": "canela_fwp5mm.jpeg"
+        "image": "canela_fwp5mm.jpg"
       }
     },
     {
@@ -139,7 +139,7 @@
         "friendly_name": "Mehla",
         "weight": 90.3,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764044/mehla_yvsqfb.jpg",
-        "image": "mehla_yvsqfb.jpeg"
+        "image": "mehla_yvsqfb.jpg"
       }
     },
     {
@@ -150,7 +150,7 @@
         "friendly_name": "Rainier McCheddarton",
         "weight": 70.4,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763878/rainier_yeodlm.jpg",
-        "image": "rainier_yeodlm.jpeg"
+        "image": "rainier_yeodlm.jpg"
       }
     },
     {
@@ -161,7 +161,7 @@
         "friendly_name": "Pax",
         "weight": 52.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764041/pax_aj6wqh.jpg",
-        "image": "pax_aj6wqh.jpeg"
+        "image": "pax_aj6wqh.jpg"
       }
     },
     {
@@ -172,7 +172,7 @@
         "friendly_name": "Lucie",
         "weight": 44.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763973/lucie_ro5isy.jpg",
-        "image": "lucie_ro5isy.jpeg"
+        "image": "lucie_ro5isy.jpg"
       }
     },
     {
@@ -183,7 +183,7 @@
         "friendly_name": "Lazer",
         "weight": 15.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763985/lazer_yrwvzu.jpg",
-        "image": "lazer_yrwvzu.jpeg"
+        "image": "lazer_yrwvzu.jpg"
       }
     },
     {
@@ -194,7 +194,7 @@
         "friendly_name": "Switchblade",
         "weight": 20.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764363/switchblade_emzkx3.jpg",
-        "image": "switchblade_emzkx3.jpeg"
+        "image": "switchblade_emzkx3.jpg"
       }
     },
     {
@@ -205,7 +205,7 @@
         "friendly_name": "Steve",
         "weight": 20.4,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582763991/steve_w7mqee.jpg",
-        "image": "steve_w7mqee.jpeg"
+        "image": "steve_w7mqee.jpg"
       }
     },
     {
@@ -216,7 +216,7 @@
         "friendly_name": "Pluto",
         "weight": 66.1,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764104/pluto_sbdj3l.jpg",
-        "image": "pluto_sbdj3l.jpeg"
+        "image": "pluto_sbdj3l.jpg"
       }
     },
     {
@@ -227,7 +227,7 @@
         "friendly_name": "Pip",
         "weight": 3.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764136/pip_o0snc2.jpg",
-        "image": "pip_o0snc2.jpeg"
+        "image": "pip_o0snc2.jpg"
       }
     },
     {
@@ -238,7 +238,7 @@
         "friendly_name": "Sweetums",
         "weight": 4.6,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764027/sweetums_prsppm.jpg",
-        "image": "sweetums_prsppm.jpeg"
+        "image": "sweetums_prsppm.jpg"
       }
     },
     {
@@ -249,7 +249,7 @@
         "friendly_name": "Jerry",
         "weight": 5.5,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764083/jerry_drpooy.jpg",
-        "image": "jerry_drpooy.jpeg"
+        "image": "jerry_drpooy.jpg"
       }
     },
     {
@@ -260,7 +260,7 @@
         "friendly_name": "Jason",
         "weight": 2.7,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764178/jason_yzb3sg.jpg",
-        "image": "jason_yzb3sg.jpeg"
+        "image": "jason_yzb3sg.jpg"
       }
     },
     {
@@ -271,7 +271,7 @@
         "friendly_name": "Peep",
         "weight": 6.5,
         "image_url": "https://res.cloudinary.com/hzrulbrds/image/upload/v1582764163/peep_g42p7k.jpg",
-        "image": "peep_g42p7k.jpeg"
+        "image": "peep_g42p7k.jpg"
       }
     }
   ]
