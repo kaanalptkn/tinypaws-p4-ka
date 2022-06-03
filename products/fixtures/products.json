@@ -252,20 +252,6 @@
       }
     },
     {
-      "pk": 19,
-      "model": "products.product",
-      "fields": {
-        "sku": "pp5004650050",
-        "name": "Jacques Mort 2-pk. Short-Sleeve Leotard - Girls",
-        "description": "Shell get plenty of use from this versatile short-sleeve leotard from Jacques Moret.  nylon washable imported",
-        "price": 34.99,
-        "category": 1,
-        "rating": 3,
-        "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0919201417043014M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-        "image": "DP0919201417043014M.jpg"
-      }
-    },
-    {
       "pk": 20,
       "model": "products.product",
       "fields": {

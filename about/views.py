@@ -17,4 +17,4 @@ def pets(request):
     }
 
     return render(request, 'about/pets.html', context)
-
+ 
