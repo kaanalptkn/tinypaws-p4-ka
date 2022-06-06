@@ -27,15 +27,17 @@ def basket_contents(request):
                 product_count += quantity
                 basket_items.append({
                     'item_id': item_id,
-                    'quantity': item_data,
+                    'quantity': quantity,
                     'product': product,
                     'size': size,
                 })
 
-    if total < settings.STANDARD_DELIVERY_PERCENTAGE:
-        delivery = total * Decimal(settings.STANDARD_DELIVERY_PERCENTAGE / 100)
+    if total < settings.FREE_DELIVERY_AMOUNT:
+        delivery = Decimal(settings.STANDARD_DELIVERY_AMOUNT)
+        free_delivery_delta = settings.FREE_DELIVERY_AMOUNT - total
     else:
         delivery = 0
+        free_delivery_delta = 0
     
     grand_total = delivery + total
     
@@ -44,7 +46,9 @@ def basket_contents(request):
         'total': total,
         'product_count': product_count,
         'delivery': delivery,
-        'grand_total': grand_total,
+        'free_delivery_delta': free_delivery_delta,
+        'FREE_DELIVERY_AMOUNT': settings.FREE_DELIVERY_AMOUNT,
+        'grand_total': grand_total
     }
 
     return context

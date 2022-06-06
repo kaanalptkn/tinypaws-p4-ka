@@ -81,6 +81,8 @@ TEMPLATES = [
     },
 ]
 
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
+
 AUTHENTICATION_BACKENDS = (
    
     # Needed to login by username in Django admin, regardless of `allauth`
@@ -161,7 +163,8 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 
-STANDARD_DELIVERY_PERCENTAGE = 10
+FREE_DELIVERY_AMOUNT = 30
+STANDARD_DELIVERY_AMOUNT = 4.99
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
