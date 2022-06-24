@@ -17,4 +17,10 @@ def pets(request):
     }
 
     return render(request, 'about/pets.html', context)
+
+
+def contact(request):
+    """ This is view to show how to contact with charity """
+    
+    return render(request, 'about/contact.html')
  

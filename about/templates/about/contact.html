@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="overlay"></div>
+    <div class="container"> 
+        <div class="row">
+            <div class="col">
+ 
+ <!--In this section there is information about address and opennig time-->
+ <section>
+    <div class="row">
+        <div class="col-xs-12 col-md-6 address">
+            <h6>Address:</h6>
+            <p><i class="fas fa-map-marked-alt"></i> Magic Road Cloudshire/Peace WS1 7QA</p>
+            <p><i class="fas fa-phone"></i> +44 20 7012 3456</p>
+            <p><i class="fas fa-envelope-open-text"></i><a href="info@tinnypaws.co.uk">info@tinnypaws.co.uk</a>
+            </p>
+        </div>
+        <div class="col-xs-12 col-md-6">
+            <h6>Opening times:</h6>
+            <p>Mon–Fri: 09:30–17:00</p>
+        </div>
+    </div>
+</section>
+<!-- Second section about feedfack form-->
+<section>
+    <form class="feedback_form border-black bg-light">
+        <h4>Ask a question</h4>
+        <div class="mb-3 col-6">
+            <label for="fname" class="form-label">First Name</label>
+            <input type="text" class="form-control" id="fname" placeholder="John" required>
+        </div>
+        <div class="mb-3 col-6">
+            <label for="lname" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="lname" placeholder="Lloyd" required>
+        </div>
+        <div class="mb-3 col-6">
+            <label for="phone" class="form-label">Phone number</label>
+            <input type="number" class="form-control" id="phone" placeholder="0#### ######" min="11"
+                required>
+        </div>
+        <div class="mb-3 col-6">
+            <label for="address" class="form-label">Email
+                address</label>
+            <input type="email" class="form-control" id="address" placeholder="name@example.com"
+                minlength="5" maxlength="64" required>
+        </div>
+        <!-- Text area here is the min and max words.-->
+        <div class="form-floating col-8">
+            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"
+                minlength="3" maxlength="750" required></textarea>
+            <label for="floatingTextarea">Comments</label>
+        </div>
+        <input type="submit" value="Submit" class="join-button">
+    </form>
+</section>
+{% endblock %}
