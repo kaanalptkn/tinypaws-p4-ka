@@ -182,7 +182,7 @@ footer {
 
 .social-link {
 	text-decoration: none;
-	display: inline-block;
+	display: contents;
 	cursor: pointer;
 }
 
@@ -332,5 +332,24 @@ footer {
     .col-5.shop-now {
         flex: revert;
         max-width: fit-content;
+    }
+
+    .btn-group-lg>.btn, .btn-lg {
+        padding: 0.5em;
+        font-size: 1rem;
+        margin-right: 5rem;
+    }
+
+    .social-ul {
+        font-size: x-small;
+        display: inline-flex;
+    }
+
+    .mb-view {
+        margin-top: 3.5em;
+    }
+
+    .text {
+        margin: 5px;
     }
 }
