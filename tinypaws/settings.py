@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-0m(&$&cw3=aqaxfv8e!=r0o9_y08#9ro)2lpe-2-)vnhnz+i@s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://git.heroku.com/kaan707-tiny-paws.git', 'localhost']
+ALLOWED_HOSTS = ['https://kaan707-tiny-paws.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -174,12 +174,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-
 
 FREE_DELIVERY_THRESHOLD = 50
 STANDARD_DELIVERY_PERCENTAGE = 10
