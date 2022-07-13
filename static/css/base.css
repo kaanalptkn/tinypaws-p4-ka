@@ -198,6 +198,14 @@ footer {
     margin-top: 1rem;
 }
 
+footer {
+    text-align: center;
+    position: inherit;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+}
+
 
 /* -------------------------------- Media Queries */
 
@@ -316,7 +324,8 @@ footer {
         height: calc(100vh - 116px);
     }
     .display-4.logo-font.text-black {
-        font-size: 2rem;
+        font-size: 1rem;
+        padding-top: 4rem;
     }
 
     .nav-link {
@@ -384,6 +393,27 @@ footer {
 
     .mt-5 {
         margin-top: 1rem!important;
+    }
+
+    footer {
+        text-align: center;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        line-height: 30px;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+
+    footer {
+        text-align: center;
+        position: inherit;
+        bottom: 0;
+        width: 100%;
+        line-height: 0px;
+        font-size: small;
     }
 }
 
