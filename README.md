@@ -61,7 +61,10 @@ difference for a user to have a great experience. All parts are designed to conc
 
 I used this website Balsamiq to create  wireframes.
 
-![Wireframes]()
+![Wireframes](media/wireframes/1.png)
+![Wireframes](media/wireframes/2.png)
+![Wireframes](media/wireframes/3.png)
+![Wireframes](media/wireframes/4.png)
 
 # Surface
 

@@ -421,5 +421,10 @@ footer {
         line-height: 0px;
         font-size: small;
     }
+
+    .logo-font {
+        font-size: larger;
+        margin-top: 4rem;
+    }
 }
 
