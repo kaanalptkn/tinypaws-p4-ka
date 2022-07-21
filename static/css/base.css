@@ -428,3 +428,8 @@ footer {
     }
 }
 
+@media (max-width: 1199.98px) {
+    footer {
+        margin-top: 10rem;
+    }
+}
