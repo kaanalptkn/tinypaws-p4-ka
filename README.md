@@ -4,7 +4,7 @@
 
 ![iamresponsive](media/amiresponsive.png)
 
-### The website presents Tiny Paws animal sanctuary and charity as an online platform. Users will be able to find shopping, to see information about the charity and animal centre, to see our animal frineds, also they could make an adoption or to shop with charity the will make a donation in an easy and simple way.
+#### The website presents Tiny Paws animal sanctuary and charity as an online platform. Users will be able to find shopping, to see information about the charity and animal centre, to see our animal frineds, also they could make an adoption or to shop with charity the will make a donation in an easy and simple way.
 
 * To open live project click [here](https://kaan707-tiny-paws.herokuapp.com/)<br>
 # Table of Contents
