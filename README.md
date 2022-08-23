@@ -4,7 +4,7 @@
 
 ![iamresponsive](media/amiresponsive.png)
 
-### Website presents Tiny Paws animal sanctuary and charity as a online platform. Users will be able to find shopping, to see information about charoty and animal centre, to see our animal frineds, also they could make a adoption or to shop with chartiy the will make a donation in easy and simple way.
+### The website presents Tiny Paws animal sanctuary and charity as an online platform. Users will be able to find shopping, to see information about the charity and animal centre, to see our animal frineds, also they could make an adoption or to shop with charity the will make a donation in an easy and simple way.
 
 * To open live project click [here](https://kaan707-tiny-paws.herokuapp.com/)<br>
 # Table of Contents
@@ -96,7 +96,7 @@ The website has below features:
 
 ## Navigation bar
 
-* #### Navigation bar is visible on the top of each website. It is responsive and will adapt to mobile devices by a change into a burger menu.
+* #### Navigation bar is visible at the top of each website. It is responsive and will adapt to mobile devices by a change into a burger menu.
 
 * Navigation scheme:
 
@@ -128,38 +128,38 @@ The website has below features:
 
 ## Help us
 
-* This section contaion two different page. One of them is adoption page, which is giving information how to adopt pets. Second on is donation page gives info how to donate to charity. 
+* This section contains two different pages. One of them is the adoption page, which is giving information on how to adopt pets. The second one is the donation page gives info on how to donate to charity. 
 
 ## Shooping page
 
-* In this section user can see all shooping products, such as activewear, jeans, shirts. Also there is a filter so user can filter price low to high or opposite, with alphabetic letter, and others. 
+* In this section, users can see all shopping products, such as activewear, jeans, and shirts. Also, there is a filter so users can filter prices low to high or opposite, with an alphabetic letter, and others. 
 
 ## Checkout
 
-* Secure checkout page allow user to add all nesesary ditails to place an order. On right hand site of the screen there is order summary. A test purchase can be made with the following details:
+* The secure checkout page allows users to add all necessary details to place an order. On the right-hand side of the screen, there is an order summary. A test purchase can be made with the following details:
 
  - credit card: 4242 4242 4242 4242
  - expiration date: 04 / 24
  - CVC: 424
  - ZIP: 42424
 
-* Complete order will submit a payment and redirect to order confirmation page. Also user can go back to the bag to adjust shopping bag.
+* The complete order will submit payment and redirect to the order confirmation page. Also, the user can go back to the bag to adjust the shopping bag.
 
 ## Checkout success - Thank you
 
-* After purchase customer can see order summary and to buttons:
+* After purchase customer can see the order summary and two buttons:
 
- - Go back to home page - user will be redirected do home page
- - Contact Us to book a space - user will be redirected to contact us page.
+ - Go back to the home page - user will be redirected to home page
+ - Contact Us to book a space - user will be redirected to the contact us page.
 
 
 ## Log in
 
-* If user already signed in before, they can login with username and password. Username is more than five character, and pasword as well. If the user first time coming to our website, there's a link on the bottom "New here? Sign Up! 
+* If the user already signed in before, they can log in with a username and password. The username is more than five characters and the password is as well. If the user is the first time coming to our website, there's a link on the bottom "New here? Sign Up! 
 
 ## Sign up
 
-* This section provides to user sign up information. If user is regular user in our webpage and they woudl like to  see their previus orders. they need sign up. 
+* This section provides user sign-up information. If a user is a regular user of our webpage and they would like to see their previus orders. they need to sign up. 
 
 ## My profile
 
@@ -167,11 +167,11 @@ The website has below features:
 
 ## Contact us
 
-* On this site a simple form allow user to contact fitness studio to book a space or make any other enquiry.
+* On this site a simple form allow the user to contact a fitness studio to book a space or make any other inquiry.
 
 ## Log out
 
-* In this section user can log out anytime, when you log out the page will you direct to all recipes page automatically.
+* In this section users can log out anytime, when you log out the page will you direct to the all recipes page automatically.
 
 [Back to Table of contents](#table-of-contents)
 
@@ -220,8 +220,8 @@ height and other elements correctly use on my web page.
 
 ## Compatibility testing
 
-My website has been tested with multiple mobile devices and browsers. I've tested extention  devices in both Mozilla web 
-developer tolls and Chrome developer tools. 
+My website has been tested with multiple mobile devices and browsers. I've tested extension  devices in both Mozilla web 
+developer tools and Chrome developer tools. 
  
 Also, I tested on hardware devices such as iPhone5 iPhone 7S, iPhone 11, iPhone 12, and Samsung Galaxy S10 and 
 Galaxy S21.
